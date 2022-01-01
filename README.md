@@ -8,8 +8,8 @@ This is the start of my 100 days of code challenge. I will be Coding / Designing
 - Start a freelance development business
 - Get a job working as a developer
 
-# Day 0
+# Day #0
 I have set up my GitHub Repo for 100 days of code, Set up my Figma account for design.
 For learning i will be using freecodecamp, Youtube, Odin Project and MDN.
 
-# Day 1
+# Day #1
