@@ -18,7 +18,8 @@ See attached photo.
 ![image](https://user-images.githubusercontent.com/28829718/147928494-9f66e208-b15c-40ac-9d62-075b27a17780.png)
 
 # Day #2
-I have decided to try and work more on the design on my Portfolio Website. I will be using Figma to do some design work. 
-
+I have decided to try and work more on the design on my Portfolio Website. I will be using Figma to do some design work. It has taken some time to get used to using Figma. I have reviewed some videos, and played around with the boxes and text to make it how i would like it.
+I have more to complete in the coming days. once the design is complete i can start to work on the Code. See attached
+![image](https://user-images.githubusercontent.com/28829718/147936353-42f18c4b-81f8-47b4-8cd8-60faf46bb33b.png)
 
 # Day #3
