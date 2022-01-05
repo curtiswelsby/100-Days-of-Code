@@ -23,3 +23,8 @@ I have more to complete in the coming days. once the design is complete i can st
 ![image](https://user-images.githubusercontent.com/28829718/147936353-42f18c4b-81f8-47b4-8cd8-60faf46bb33b.png)
 
 # Day #3
+![image](https://user-images.githubusercontent.com/28829718/148237195-68ea8525-ba5c-4f36-ad36-5cf4124ad153.png)
+
+# Day #4
+
+# Day #5
