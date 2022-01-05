@@ -23,6 +23,7 @@ I have more to complete in the coming days. once the design is complete i can st
 ![image](https://user-images.githubusercontent.com/28829718/147936353-42f18c4b-81f8-47b4-8cd8-60faf46bb33b.png)
 
 # Day #3
+I have had a look at some designs and changed some sections of my portfolio site. I have also completed a couple sections of freecodecamps CSS to try and understand how to create parts of the webpage.
 ![image](https://user-images.githubusercontent.com/28829718/148237195-68ea8525-ba5c-4f36-ad36-5cf4124ad153.png)
 
 # Day #4
