@@ -27,5 +27,16 @@ I have had a look at some designs and changed some sections of my portfolio site
 ![image](https://user-images.githubusercontent.com/28829718/148237195-68ea8525-ba5c-4f36-ad36-5cf4124ad153.png)
 
 # Day #4
+Today I have been looking at designs and tutorials on CSS. Using Youtube Videos and google searches for design insporation for my portfolio.
+With Youtube I have watched videos on CSS to get a better understanding of how it works and how to do things I would like to implement in my portfolio website + future projects.
 
 # Day #5
+Today has consisted of some more learning. I have done a few sections on FreeCodeCamp and some Youtube Videos on CSS tips and tricks.
+
+# Day #6
+
+
+
+
+
+
