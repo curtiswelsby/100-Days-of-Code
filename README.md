@@ -35,8 +35,8 @@ Today has consisted of some more learning. I have done a few sections on FreeCod
 
 # Day #6
 
+# Day #7
 
+# Day #8
 
-
-
-
+# Day #9
