@@ -40,8 +40,9 @@ I complete some more sections on free code camp. going over what I have done pre
 Today I have been looking at design. I want to develop my design knowledge and creativity so that I will be able to come up with different concepts and designs for customers. I have been using Youtube to find videos on Design which can help with understanding how design works.
 
 # Day #8
-
+I have been trying to get some more ideas around design. I really want my Portfolio to stand out. I have a better mind for development work and not as creative to come up with some fancy designs like I see from others. I am keen to try and get some ideas as to what i can do to stand out.
 
 # Day #9
+After the last few days of watching videos and trying to understand more about design i thought it best to get back to working on writing code. I have got back to doing some FreeCodeCamp. Going over some of the sections on HTML and CSS I have done before to try and refresh my mind on simple website building.
 
 # Day #10
