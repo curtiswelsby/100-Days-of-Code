@@ -34,9 +34,14 @@ With Youtube I have watched videos on CSS to get a better understanding of how i
 Today has consisted of some more learning. I have done a few sections on FreeCodeCamp and some Youtube Videos on CSS tips and tricks.
 
 # Day #6
+I complete some more sections on free code camp. going over what I have done previously trying to develop my knowledge in both HTML and CSS. I have also watched some youtube videos on CSS and design to try and understand how i can design webpages better.
 
 # Day #7
+Today I have been looking at design. I want to develop my design knowledge and creativity so that I will be able to come up with different concepts and designs for customers. I have been using Youtube to find videos on Design which can help with understanding how design works.
 
 # Day #8
 
+
 # Day #9
+
+# Day #10
