@@ -46,3 +46,4 @@ I have been trying to get some more ideas around design. I really want my Portfo
 After the last few days of watching videos and trying to understand more about design i thought it best to get back to working on writing code. I have got back to doing some FreeCodeCamp. Going over some of the sections on HTML and CSS I have done before to try and refresh my mind on simple website building.
 
 # Day #10
+I feel like I have been watching videos and doing tutorials too much over the last few days. Back to try and start producing something. I think i need to just create my portfolio and some projects as that will put me in the best place to develop the most. Back to finishing the design of my website.
