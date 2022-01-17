@@ -49,3 +49,13 @@ After the last few days of watching videos and trying to understand more about d
 I feel like I have been watching videos and doing tutorials too much over the last few days. Back to try and start producing something. I think i need to just create my portfolio and some projects as that will put me in the best place to develop the most. Back to finishing the design of my website.
 
 # Day #11
+
+# Day #12
+
+# Day #13
+
+# Day #14
+
+# Day #15
+
+# Day #16
