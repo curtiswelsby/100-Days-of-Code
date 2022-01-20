@@ -46,23 +46,32 @@ I have been trying to get some more ideas around design. I really want my Portfo
 After the last few days of watching videos and trying to understand more about design i thought it best to get back to working on writing code. I have got back to doing some FreeCodeCamp. Going over some of the sections on HTML and CSS I have done before to try and refresh my mind on simple website building.
 
 # Day #10
-I feel like I have been watching videos and doing tutorials too much over the last few days. Back to try and start producing something. I think i need to just create my portfolio and some projects as that will put me in the best place to develop the most. Back to finishing the design of my website.
+I have been running through FreeCodeCamps responsive web design certification. I am half way through the HTML section. I am trying to do some learning while practicing some programming.
 
 # Day #11
+I have been running through FreeCodeCamps responsive web design certification. I have now finish the HTML section of freecode camp. it was good to increase my knowledge of HTML and practice stuff i have completed before to get my head back into programming.
 
 # Day #12
+There are 44 sections in the CSS course. I am working my way through them. I feel like CSS is where i need to increase my knowledge to make sure that my websites look good and i can recreate my figma designs.
 
 # Day #13
+I am starting for section 24 on the CSS course of FreeCodeCamp. I have 20 to go through today that i aim to finish. This is only Basic CSS so the completing some other courses will help as well.
 
 # Day #14
+I worked through and completed the CSS course yesterday. I am starting on the applied visual design course. This is more CSS but a bit higher level than basic CSS which is really good to understand.
 
 # Day #15
+Today i am aiming to finish the applied visual design course. I have over 30 sections to complete so will try and get to the end.
 
 # Day #16
 
+
 # Day #17
+
 
 # Day #18
 
+
 # Day #19
+
 
