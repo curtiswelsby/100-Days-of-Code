@@ -61,3 +61,8 @@ I feel like I have been watching videos and doing tutorials too much over the la
 # Day #16
 
 # Day #17
+
+# Day #18
+
+# Day #19
+
