@@ -64,7 +64,7 @@ I worked through and completed the CSS course yesterday. I am starting on the ap
 Today i am aiming to finish the applied visual design course. I have over 30 sections to complete so will try and get to the end.
 
 # Day #16
-
+I was able to make it to the end of the Applied Visual Design section. I only needed to use a hint twice through the course, so I'm happy about that. Today i am oing through a couple of youtube videos i have found around CSS and techniques to use.
 
 # Day #17
 
